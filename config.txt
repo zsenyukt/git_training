@@ -10,3 +10,7 @@ editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -
 - Add user.name and user.email to global (it should be added earlier)
 $ git config --global user.name "John Doe" 
 $ git config --global user.email johndoe@example.com
+
+
+
+Zsenyuk was here
